@@ -1,20 +1,20 @@
-# Security Policy
+#          Политика в области безопасности        
 
-## Supported Versions
+##          Поддерживаемые версии        
 
-Turn Off the Lights browser extension that is currently being supported with security updates. The web browser updates automatically the Turn Off the Lights Browser extension to the latest version. If you are using an old Turn Off the Lights or are using a not supported web browser, please update your web browser.
+Выключите расширение браузера Lights, которое в настоящее время поддерживается обновлениями безопасности. Веб-браузер автоматически обновляет расширение браузера выключить свет до последней версии. Если вы используете старый выключить лампы или используете не поддерживаемый веб-браузер, пожалуйста, обновите ваш веб-браузер.
 
-| Version | Supported          |
+| Версия | Поддерживаемые |
 | ------- | ------------------ |
-| 4.4.x   | :white_check_mark: |
-| 4.3.x   | :white_check_mark: |
-| 4.2.x   | :white_check_mark: |
-| 4.1.x   | :white_check_mark: |
-| 4.0.x   | :x:                |
-| < 3.3   | :x:                |
+|  4.4.x    | :white_check_mark: |
+|  4.3.x    | :white_check_mark: |
+|  4.2.x    | :white_check_mark: |
+|  4.1.x    | :white_check_mark: |
+|  4.0.x    | :x:                |
+|  < 3.3    | :x:                |
 
-## Reporting a Vulnerability
+##   Сообщение о уязвимости 
 
-We take all the privacy and security issues very seriously. If you found a possible vulnerability, please report this on the 24h contact form at https://www.turnoffthelights.com/support/contact-us/
+Мы очень серьезно относимся ко всем вопросам конфиденциальности и безопасности. Если вы нашли возможную уязвимость, пожалуйста, сообщите об этом в форме контакта за 24 часа по адресу https://www.turnoffthelights.com/support/contact-us/
 
-Your report will instantly be follow up by a developer, and you will get an update when the reported vulnerability is accepted or declined. With the timeline when it will be fixed.
+Ваш отчет будет мгновенно следить за разработчиком, и вы получите обновление, когда сообщенная уязвимость будет принята или отклонена. С хронологией, когда она будет установлена.
